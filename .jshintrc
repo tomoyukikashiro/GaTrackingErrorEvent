@@ -14,6 +14,7 @@
     "it"         : true,
     "beforeEach" : true,
     "describe"   : true,
-    "ga"         : true
+    "ga"         : true,
+    "GaTrackingErrorEvent": true
   }
 }

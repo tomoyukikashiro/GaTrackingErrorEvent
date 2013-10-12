@@ -3,7 +3,7 @@ module.exports = function(grunt) {
   "use strict";
 
   var lintFiles = [
-    'src/js/GaTrackingErrorEvent.js'
+    'src/GaTrackingErrorEvent.js'
   ];
 
   // Project configuration.

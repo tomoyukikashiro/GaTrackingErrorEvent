@@ -14,7 +14,7 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      './src/js/GaTrackingErrorEvent.js',
+      './src/GaTrackingErrorEvent.js',
       './src/test/lib/sinon-1.5.2.js',
       './src/test/lib/expect.js',
       './src/test/spec/GaTrackingErrorEventSpec.js'
