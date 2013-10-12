@@ -15,3 +15,7 @@ only 2 steps :)
 <!-- load this script -->
 <script src="./GaTrackingErrorEvent.min.js"></script>
 ```
+
+## How to check on Google Analytics
+
+`Behavior > Events Overview > Event Action > error`
