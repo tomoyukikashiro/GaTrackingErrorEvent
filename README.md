@@ -1,5 +1,7 @@
 # GaTrackingErrorEvent
 
+[![Build Status](https://travis-ci.org/kashiro/GaTrackingErrorEvent.png?branch=master)](https://travis-ci.org/kashiro/GaTrackingErrorEvent)
+
 ## Outline
 
 library to track javascript error by using google analytics
