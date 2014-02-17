@@ -6,6 +6,12 @@
 
 library to track javascript error by using google analytics
 
+## Install via bower
+
+```bash
+  bower install GaTrackingErrorEvent --save
+```
+
 ## Usage
 
 only 2 steps :)

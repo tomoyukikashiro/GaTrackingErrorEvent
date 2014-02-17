@@ -1,0 +1,25 @@
+{
+  "name": "GaTrackingErrorEvent",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kashiro/GaTrackingErrorEvent",
+  "authors": [
+    "Tomoyuki Kashiro <ksrtmyk@gmail.com>"
+  ],
+  "description": "library to track javascript error by using google analytics",
+  "main": "dist/GaTrackingErrorEvent.js",
+  "keywords": [
+    "googleanalytics",
+    "error"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "karma.conf.js",
+    "resources",
+    "src",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
